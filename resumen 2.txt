@@ -1,0 +1,4 @@
+Variable es un valor que puede cambiar, dependiendo de las condiciones o de la información pasada al programa.
+Por ejemplo, en la programación, solemos usar mucho los variables para darle un valor y asi darle su función que deseamos.
+Nos permite crear un examen y podemos registrar ¨respuestas¨ como ¨Res¨, y hacer que el Variable ¨Res¨ si no es igual al condición de un bucle o ciclo ¨Do While¨ que saque del examen, y podemos hacer infintas cosas con variables. 
+Los tipos de datos son los que define un conjunto de valores y las operaciones sobre estos valores.

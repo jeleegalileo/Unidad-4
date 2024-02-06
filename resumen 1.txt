@@ -1,0 +1,4 @@
+Resumen UNIDAD 1
+Codificacion de binarios, es facinante como un binario puede crear miles de cosas y significados tecnicos, es algo que en el area de programacion claramente nos sería de mucha utilidad ya que desarrolla nuestra lógica.
+Hablando de Lógica, personalmente pienso que Lógica es una técnica vital para programación, ya que usando la lógica en funcionamiento de cada linea de codigo lograramos un resultado fascinante.Definitivamente es el mas importante e interesante.
+Una vez desarrollado la lógica en la programación pienso que facilitaría usar algorítmos en la programación y estructurar de manera rapido los softwares. 
